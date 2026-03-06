@@ -1,0 +1,3 @@
+CREATE OR REPLACE CONTEXT TEST_APP_CTX
+    USING test_app_ctx_helper_pkg
+    ACCESSED GLOBALLY;
